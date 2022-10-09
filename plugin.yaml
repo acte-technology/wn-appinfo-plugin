@@ -1,0 +1,6 @@
+plugin:
+    name: 'acte.appinfo::lang.plugin.name'
+    description: 'acte.appinfo::lang.plugin.description'
+    author: 'ACTE Technology'
+    icon: wn-icon-adjust
+    replaces: {  }
