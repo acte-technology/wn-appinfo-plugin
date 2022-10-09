@@ -1,0 +1,19 @@
+{
+    "name": "acte/wn-appinfo-plugin",
+    "description": "Provide API to get application build and installed plugins for third-party monitoring system like Zabbix or Grafana.",
+    "type": "winter-plugin",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ACTE Technology",
+            "email": "contact@acte.ltd"
+        },
+        {
+            "name": "Adrien Baltardive",
+            "email": "adrien@baltardive.com"
+        }
+    ]
+}
